@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# macOS
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Generated reports
+outputs/*
+!outputs/.gitkeep
+
+# Python testing and cache
+.pytest_cache/
+.mypy_cache/

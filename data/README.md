@@ -1,0 +1,1 @@
+Download the Atticus Commercial Contract Dataset / CUAD from Kaggle: https://www.kaggle.com/theatticusproject\n\nPlace extracted .txt or .pdf contract files in this folder. Dataset files are not included in this project ZIP. Check the current license before use.\n
